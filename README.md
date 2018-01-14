@@ -12,4 +12,6 @@ The Code requires the installation of:
 
 - sklearn (http://scikit-learn.org)
 
-- dask_searchcv(https://github.com/dask/dask-searchcv)
+- dask (https://dask.pydata.org/en/latest/)
+
+- dask_searchcv (https://github.com/dask/dask-searchcv)
