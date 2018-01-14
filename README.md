@@ -1,9 +1,15 @@
-"# CI_project" - Milan
+# RBF Neural Network Handwritten Digit Classifier
 
-Required Modules:
+The code of implemented RBFNN handwritten digit clssifier.
 
-mnist (https://github.com/sorki/python-mnist)
+The Code requires the installation of:
 
-hdbscan (https://github.com/scikit-learn-contrib/hdbscan)
+- mnist (https://github.com/sorki/python-mnist)
 
-dask_searchcv(https://github.com/dask/dask-searchcv) and maybe regular dask
+- numpy (http://www.numpy.org/)
+
+- scipy (https://www.scipy.org/)
+
+- sklearn (http://scikit-learn.org)
+
+- dask_searchcv(https://github.com/dask/dask-searchcv)
