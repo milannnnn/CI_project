@@ -1,6 +1,6 @@
 # RBF Neural Network Handwritten Digit Classifier
 
-This repository summarizes the implemented RBFNN handwritten digit clssifier, with MNIST data downloading, hyperparameter search, and final model evaluation.
+This repository summarizes the implemented RBFNN handwritten digit clssifier, through different Jupyter Notebooks.
 
 The code requires the installation of next python modules:
 
