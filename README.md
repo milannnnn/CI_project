@@ -1,8 +1,8 @@
 # RBF Neural Network Handwritten Digit Classifier
 
-The code of implemented RBFNN handwritten digit clssifier.
+This repository summarizes the implemented RBFNN handwritten digit clssifier, with MNIST data downloading, hyperparameter search, and final model evaluation.
 
-The Code requires the installation of:
+The code requires the installation of next python modules:
 
 - mnist (https://github.com/sorki/python-mnist)
 
